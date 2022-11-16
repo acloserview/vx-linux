@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+_user="$(who|awk 'NR==1 {print $1}')"
+xbps-install -Syu void-repo-multilib void-repo-nonfree
+xbps-install -Syv libgcc-32bit libstdc++-32bit libdrm-32bit libglvnd-32bit mesa-dri-32bit
+xbps-install -Syu mono steam
+
+cp /usr/share/applications/steam.desktop /home/$_user/Desktop
+chown $_user:$_user /home/$_user/Desktop/steam.desktop
+chmod +x /home/$_user/Desktop/steam.desktop
+
+echo ""
+echo "Installation complete, Steam setup will now continue.."
+sleep 3
+su -g wheel $_user -c 'steam & exit'
+exit
