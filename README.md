@@ -7,13 +7,13 @@ Ultra light barebone builds to get started with Void. Include basic networking, 
 - Awesome - <a href="https://github.com/dessington/vx-linux/releases/download/a1.0/vx-awesome-1.0.iso">vx-awesome-1.0.iso</a><br>
 <img src="https://github.com/dessington/vx-linux/blob/main/void-awesome.jpg" stylw="width:200px"><br/>
 <br>
-- Berry
-- Cinnamon
-- Enlightenment
-- Fluxbox
-- Gnome
-- LXQt
-- Mate
-- Openbox
-- Plasma
-- XFCE
+- Berry<br>
+- Cinnamon<br>
+- Enlightenment<br>
+- Fluxbox<br>
+- Gnome<br>
+- LXQt<br>
+- Mate<br>
+- Openbox<br>
+- Plasma<br>
+- XFCE<br>
