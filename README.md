@@ -4,5 +4,5 @@ A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desk
 **VX Spins**<br>
 Ultra light barebone builds to get started with Void. Include basic networking, sound and slim display manager. Software includes a terminal and text editor.
 <br>
-- Awesome
+- Awesome <a href="https://github.com/dessington/vx-linux/releases/download/a1.0/vx-awesome-1.0.iso">vx-awesome-1.0.iso</a>
 - Berry
