@@ -1,5 +1,5 @@
 # VX Linux
-A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desktop with elements borrowed from mac, windows and other DEs. Based on the excellent Void Linux and locked to 5.15 LTS. Includes basic software set without browser and office. Replaces Dracut with <a href="https://github.com/anatol/booster">Booster</a>.
+A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desktop with elements borrowed from mac, windows and other DEs. Based on the excellent Void Linux and locked to 5.15 LTS. Includes basic software set without browser and office. Choice of 3 initramfs generators - booster, dracut and mkinitcpio.
 
 **VX Spins**<br>
 Ultra light barebone builds to get started with Void. Include basic networking, sound and slim display manager. Software includes a terminal and text editor.
