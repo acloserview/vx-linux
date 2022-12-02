@@ -3,6 +3,8 @@ A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desk
 
 Choice of 3 initramfs generators - booster (default), dracut or mkinitcpio.
 
+Login: anon / live
+
 **VX Spins**<br>
 Ultra light barebone builds to get started with Void. Include basic networking, sound and slim display manager. Software includes a terminal and text editor.
 <br>
