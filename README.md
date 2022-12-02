@@ -9,7 +9,7 @@ Login: anon / live
 Ultra light barebone builds to get started with Void. Include basic networking, sound and slim display manager. Software includes a terminal and text editor.
 <br>
 - Awesome - <a href="https://github.com/dessington/vx-linux/releases/download/a1.0/vx-awesome-1.0.iso">vx-awesome-1.0.iso</a><br>
-<img src="https://github.com/dessington/vx-linux/blob/main/void-awesome.jpg" stylw="width:200px"><br/>
+<img src="https://github.com/dessington/vx-linux/blob/main/void-awesome.jpg" style="width:240px"><br/>
 <br>
 - Berry<br>
 - Cinnamon<br>
