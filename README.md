@@ -14,12 +14,7 @@ Awesome - <a href="https://github.com/dessington/vx-linux/releases/download/a1.0
 Berry - <a href="https://github.com/dessington/vx-linux/releases/download/b1.0/vx-berry.iso">vx-berry-1.0.iso</a><br>
 <img src="https://github.com/dessington/vx-linux/blob/main/void-berry.jpg" style="width:240px"><br/>
 <br>
-- Cinnamon<br>
 - Enlightenment<br>
 - Fluxbox<br>
-- Gnome<br>
-- LXQt<br>
 - Mate<br>
 - Openbox<br>
-- Plasma<br>
-- XFCE<br>
