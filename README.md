@@ -8,10 +8,10 @@ Login: anon / live
 **VX Spins**<br>
 Ultra light barebone builds to get started with Void. Include basic networking, sound and slim display manager. Software includes a terminal and text editor.
 <br>
-- Awesome - <a href="https://github.com/dessington/vx-linux/releases/download/a1.0/vx-awesome-1.0.iso">vx-awesome-1.0.iso</a><br>
+Awesome - <a href="https://github.com/dessington/vx-linux/releases/download/a1.0/vx-awesome-1.0.iso">vx-awesome-1.0.iso</a><br>
 <img src="https://github.com/dessington/vx-linux/blob/main/void-awesome.jpg" style="width:240px"><br/>
 <br>
-- Berry - <a href="#">vx-berry-1.0.iso</a><br>
+Berry - <a href="https://github.com/dessington/vx-linux/releases/download/b1.0/vx-berry.iso">vx-berry-1.0.iso</a><br>
 <img src="https://github.com/dessington/vx-linux/blob/main/void-berry.jpg" style="width:240px"><br/>
 <br>
 - Cinnamon<br>
