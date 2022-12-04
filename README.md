@@ -15,5 +15,4 @@ Berry - <a href="https://github.com/dessington/vx-linux/releases/download/b1.0/v
 <br>
 - Enlightenment<br>
 - Fluxbox<br>
-- Mate<br>
 - Openbox<br>
