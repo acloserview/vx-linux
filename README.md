@@ -5,6 +5,7 @@ A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desk
 Choice of 3 initramfs generators - booster (default), dracut or mkinitcpio.<br>
 Choice of 2 panels: Mac'ish (pictured) or full width traditional.<br>
 Choice of kernels: 4.19, 5.4, 5.10, 5.15, 5.18, 5.19, 6.0<br>
+Integrated backup & restore<br>
 Integrated update notification<br>
 Login: anon / live<br>
 <br>
