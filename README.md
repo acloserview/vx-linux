@@ -19,10 +19,10 @@ Fullwidth<br>
 Backup: Backup entire installation (single fs) to /<br>
 Clean: Empty trash, removed unused packages, purge removable kernels, clear XBPS cache<br>
 Personalisation: Set avatar, set panel layout, set global theme background (used for grub, desktop & sddm)<br>
-Restore: Restore a backup to target partition and regrub (dual boot compatible)<br>
-System: Extra modules (bluetooh, file sharing, flatpak, printing, ssh)<br>
+Restore: Restore a backup to target partition and make bootable (dual boot compatible)<br>
+System: Extra modules (bluetooth, file sharing, flatpak, printing, ssh)<br>
         Graphics drivers<br>
-        Initranfs switcher<br>
+        Initramfs switcher<br>
         Kernel switcher<br>
 <br>
 **Login**<br>
