@@ -10,9 +10,11 @@ Dock<br>
 <img src="https://github.com/dessington/vx-linux/blob/main/panel-dock.png?raw=true"><br>
 Fullwidth<br>
 <img src="https://github.com/dessington/vx-linux/blob/main/panel-fullwidth.png?raw=true"><br>
-
 **Choice of kernels**<br>
 4.19, 5.4, 5.10, 5.15, 5.18, 5.19, 6.0<br>
+<br>
+**Software Management**<br>
+XBPS via terminal or OctoXBPS for gui based<br>
 <br>
 **Utilities**<br>
 Backup<br>
