@@ -37,3 +37,5 @@ Kernel switcher<br>
 **Login**<br>
 anon / live<br>
 <br>
+Installation<br>
+Open a aterminal and run <code>vxinstaller</code>
