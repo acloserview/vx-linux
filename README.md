@@ -28,7 +28,7 @@ Set avatar, set panel layout, set global theme background (used for grub, deskto
 Restore<br>
 Restore a backup to target partition and make bootable (dual boot compatible)<br>
 <br>
-System
+System<br>
 Extra modules (bluetooth, file sharing, flatpak, printing, ssh)<br>
 Graphics drivers<br>
 Initramfs switcher<br>
