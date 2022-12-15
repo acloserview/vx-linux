@@ -6,7 +6,6 @@ A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desk
 booster (default), dracut (void default) or mkinitcpio.<br>
 <br>
 **Choice of 2 panels**<br>
-<br>
 Dock<br>
 <img src="https://github.com/dessington/vx-linux/blob/main/panel-dock.png?raw=true"><br>
 Fullwidth<br>
@@ -37,5 +36,5 @@ Kernel switcher<br>
 **Login**<br>
 anon / live<br>
 <br>
-Installation<br>
+**Installation**<br>
 Open a aterminal and run <code>vxinstaller</code>
