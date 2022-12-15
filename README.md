@@ -1,10 +1,11 @@
 # VX Linux
 <img src="https://vxlinux.org/wp-content/uploads/2022/12/vx35.webp" style="width:960px;">
 A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desktop with elements borrowed from mac, windows and other DEs. Based on the excellent Void Linux and locked to 5.15 LTS. Includes basic software set without browser and office.<br>
-<br>
+<br><br>
 Choice of 3 initramfs generators - booster (default), dracut or mkinitcpio.<br>
+<br><br>
+Choice of 2 panels: Dock or full width traditional.<br>
 <br>
-Choice of 2 panels: Dock (pictured) or full width traditional.<br>
 Dock<br>
 <img src="https://github.com/dessington/vx-linux/blob/main/panel-dock.png?raw=true"><br>
 Fullwidth<br>
@@ -14,17 +15,3 @@ Choice of kernels: 4.19, 5.4, 5.10, 5.15, 5.18, 5.19, 6.0<br>
 Integrated backup & restore<br>
 Integrated update notification<br>
 Login: anon / live<br>
-<br>
-
-**VX Spins**<br>
-Ultra light barebone builds to get started with Void. Include basic networking, sound and slim display manager. Software includes a terminal and text editor.
-<br><br>
-Awesome - <a href="https://github.com/dessington/vx-linux/releases/download/a1.0/vx-awesome-1.0.iso">vx-awesome-1.0.iso</a><br>
-<img src="https://github.com/dessington/vx-linux/blob/main/void-awesome.jpg" style="width:320px"><br/>
-<br>
-Berry - <a href="https://github.com/dessington/vx-linux/releases/download/b1.0/vx-berry.iso">vx-berry-1.0.iso</a><br>
-<img src="https://github.com/dessington/vx-linux/blob/main/void-berry.jpg" style="width:320px"><br/>
-<br>
-- Enlightenment<br>
-- Fluxbox<br>
-- Openbox<br>
