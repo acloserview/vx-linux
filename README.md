@@ -16,14 +16,24 @@ Fullwidth<br>
 4.19, 5.4, 5.10, 5.15, 5.18, 5.19, 6.0<br>
 <br>
 **Utilities**<br>
-Backup: Backup entire installation (single fs) to /<br>
-Clean: Empty trash, removed unused packages, purge removable kernels, clear XBPS cache<br>
-Personalisation: Set avatar, set panel layout, set global theme background (used for grub, desktop & sddm)<br>
-Restore: Restore a backup to target partition and make bootable (dual boot compatible)<br>
-System: Extra modules (bluetooth, file sharing, flatpak, printing, ssh)<br>
-        Graphics drivers<br>
-        Initramfs switcher<br>
-        Kernel switcher<br>
+Backup<br>
+Backup entire installation (single fs) to /<br>
+<br>
+Clean<br>
+Empty trash, removed unused packages, purge removable kernels, clear XBPS cache<br>
+<br>
+Personalisation<br>
+Set avatar, set panel layout, set global theme background (used for grub, desktop & sddm)<br>
+<br>
+Restore<br>
+Restore a backup to target partition and make bootable (dual boot compatible)<br>
+<br>
+System
+Extra modules (bluetooth, file sharing, flatpak, printing, ssh)<br>
+Graphics drivers<br>
+Initramfs switcher<br>
+Kernel switcher<br>
 <br>
 **Login**<br>
 anon / live<br>
+<br>
