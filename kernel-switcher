@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+kernelselected=$(yad --title="Kernel Switcher" --radiolist --list --no-headers --width=250 --height=305 --button=Cancel:1 --button=Install:0 --column="" --column="" false "4.19" false "5.4" false "5.10" false "5.15 (Default)" false "5.18" false "5.19" false "6.0")
+
+if [[ "$kernelselected" == *"4.19"* ]]; then
+qterminal -e 'sudo kernel-419' &
+fi
+
+if [[ "$kernelselected" == *"5.4"* ]]; then
+qterminal -e 'sudo kernel-54' &
+fi
+
+if [[ "$kernelselected" == *"5.10"* ]]; then
+qterminal -e 'sudo kernel-510' &
+fi
+
+if [[ "$kernelselected" == *"5.15"* ]]; then
+qterminal -e 'sudo kernel-515' &
+fi
+
+if [[ "$kernelselected" == *"5.18"* ]]; then
+qterminal -e 'sudo kernel-518' &
+fi
+
+if [[ "$kernelselected" == *"5.19"* ]]; then
+qterminal -e 'sudo kernel-519' &
+fi
+
+if [[ "$kernelselected" == *"6.0"* ]]; then
+qterminal -e 'sudo kernel-60' &
+fi
+
+exit
