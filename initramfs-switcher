@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+kernelselected=$(yad --title="Initramfs Switcher" --radiolist --list --no-headers --width=250 --height=161 --button=Cancel:1 --button=Install:0 --column="" --column="" false "Booster (Default)" false "Dracut" false "Mkinitcpio")
+
+if [[ "$kernelselected" == *"Booster"* ]]; then
+qterminal -e 'sudo set-initramfs booster' &
+fi
+
+if [[ "$kernelselected" == *"Dracut"* ]]; then
+qterminal -e 'sudo set-initramfs dracut' &
+fi
+
+if [[ "$kernelselected" == *"Mkinitcpio"* ]]; then
+qterminal -e 'sudo set-initramfs mkinitcpio' &
+fi
+
+echo ""
+echo "Initramfs configured"
+sleep 3
+exit
