@@ -2,7 +2,7 @@
 <img src="https://github.com/dessington/vx-linux/blob/main/desktop.png?raw=true" style="width:960px;">
 A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desktop with elements borrowed from mac, windows and other DEs. Based on the excellent Void Linux and locked to 5.15 LTS. Includes basic software set without browser and office.<br>
 <br>
-**Choice of 2 panels** (not working since xfce-panel 4.18 "upgrade"<br>
+**Choice of 2 panels** (rounded corners bugged since 4.18 panel "upgrade")<br>
 Dock<br>
 <img src="https://github.com/dessington/vx-linux/blob/main/panel-dock.png?raw=true"><br>
 Fullwidth<br>
