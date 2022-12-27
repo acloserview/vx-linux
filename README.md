@@ -4,6 +4,7 @@ A pre-configured, secure systemd-free linux desktop featuring a mostly LXQt desk
 <br>
 **Choice of 2 panels**<br>
 (Rounded corners bugged since 4.18 "upgrade" - rounded corners applied to panel are now applied to every object within the panel -_-)<br>
+<br>
 Dock<br>
 <img src="https://github.com/dessington/vx-linux/blob/main/panel-dock.png?raw=true"><br>
 Fullwidth<br>
