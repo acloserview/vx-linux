@@ -10,22 +10,9 @@ Fullwidth<br>
 **Software Management**<br>
 XBPS via terminal or OctoXBPS for gui based<br>
 <br>
-**Utilities**<br>
-Backup<br>
-Backup entire installation (single fs) to /<br>
-<br>
-Clean<br>
-Empty trash, removed unused packages, purge removable kernels, clear XBPS cache<br>
-<br>
-Personalisation<br>
-Set avatar, set panel layout, set global theme background (used for grub, desktop & sddm)<br>
-<br>
-Restore<br>
-Restore a backup to target partition and make bootable (dual boot compatible)<br>
-<br>
-System<br>
-Extra modules (bluetooth, file sharing, flatpak, printing, ssh)<br>
-Graphics drivers<br>
+<a href="https://github.com/dessington/vx-actions">Actions</a>
+<a href="https://github.com/dessington/vx-software">Software</a>
+<a href="https://github.com/dessington/vx-utils">Utility</a>
 <br>
 **Login**<br>
 anon / live<br>
