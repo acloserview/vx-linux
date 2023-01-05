@@ -8,12 +8,6 @@ Dock<br>
 <img src="#"><br>
 Fullwidth<br>
 <img src="#"><br>
-**Software Management**<br>
-XBPS via terminal or OctoXBPS for gui based<br>
-<br>
-<a href="https://github.com/dessington/vx-actions">Actions</a><br>
-<a href="https://github.com/dessington/vx-software">Software</a><br>
-<a href="https://github.com/dessington/vx-utils">Utility</a><br>
 <br>
 **Login**<br>
 anon / live<br>
