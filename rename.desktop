@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=Rename Files
+Icon=view-sort-descending
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=inode/directory;
+Exec=krename ./
+Name=Default profile
