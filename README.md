@@ -1,5 +1,5 @@
 # VX Linux
-<img src="https://github.com/dessington/vx-linux/blob/main/vx-desktop-5.0.png?raw=true" style="width:960px;">
+<img src="https://raw.githubusercontent.com/dessington/vx-linux/main/vx-desktop-6.1.png" style="width:960px;">
 
 **Login**
 - anon / live
