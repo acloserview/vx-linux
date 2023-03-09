@@ -6,5 +6,3 @@
 
 **Installation**
 - Open a terminal and run <code>vxinstaller</code>
-
-<a href="https://vxlinux.org">vxlinux.org</a>
