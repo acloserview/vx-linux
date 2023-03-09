@@ -6,5 +6,5 @@ Profiles=profile-zero;
 
 [X-Action-Profile profile-zero]
 MimeTypes=inode/directory;
-Exec=krename .
+Exec=krename ./
 Name=Default profile
