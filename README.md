@@ -10,7 +10,9 @@
 - Graphics Driver Installer
 <img src="https://github.com/dessington/vx-linux/blob/main/graphics-drivers.png" style="width:100px;">
 - Mirror Selector
-<img src="https://github.com/dessington/vx-linux/blob/main/mirror-selector.png" style="width:100px;">
+<img src="https://github.com/dessington/vx-linux/blob/main/mirror-selector.png" style="width:200px;">
+- Optional Extras
+<img src="https://github.com/dessington/vx-linux/blob/main/optional-modules.png" style="width:100px;">
 
 **Login**
 - anon / live
