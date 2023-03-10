@@ -9,6 +9,8 @@
 **Features**
 - Graphics Driver Installer
 <img src="https://github.com/dessington/vx-linux/blob/main/graphics-drivers.png" style="width:100px;">
+- Mirror Selector
+<img src="https://github.com/dessington/vx-linux/blob/main/mirror-selector.png" style="width:100px;">
 
 **Login**
 - anon / live
