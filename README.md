@@ -13,6 +13,12 @@
 <img src="https://github.com/dessington/vx-linux/blob/main/mirror-selector.png" style="width:200px;">
 - Optional Extras
 <img src="https://github.com/dessington/vx-linux/blob/main/optional-modules.png" style="width:100px;">
+- Light, highly-optimised base
+- Quick booting
+- Integrated antivirus
+- Integrated firewall
+- Clean, uncluttered styling
+- No bling bling
 
 **Login**
 - anon / live
