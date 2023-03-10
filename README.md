@@ -20,10 +20,10 @@
 - Clean, uncluttered styling<br>
 - No bling bling<br>
 <br>
-**Login**
+**Login**<br>
 - anon / live
-
-**Installation**
+<br>
+**Installation**<br>
 - Open a terminal and run <code>vxinstaller</code>
 
 
