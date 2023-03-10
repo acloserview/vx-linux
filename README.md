@@ -7,7 +7,7 @@
 **Installation**
 - Open a terminal and run <code>vxinstaller</code>
 
-Editions
+**Editions**
 - LXQt (complete)
 - Plasma (in progress)
 - Openbox (Planned)
