@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=Scan with ClamAV
+Icon=clamav
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=all/all;
+Exec=qterminal -e 'sudo /usr/share/VX/actions/clam-scan %f'
+Name=Default profile

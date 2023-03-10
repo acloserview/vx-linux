@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub com.todoist.Todoist --assumeyes'
+Icon=todoist
+Name=Todoist
+StartupNotify=true
+Terminal=false
+Type=Application

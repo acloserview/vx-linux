@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+xbps-install -Syu sublime-text3
+echo "0.0.0.0 www.sublimetext.com" >> /etc/hosts
+echo "Nag disabled"
+
+echo ""
+echo "Installation complete"
+sleep 5
+exit

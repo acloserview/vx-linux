@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.kde.kdenlive --assumeyes'
+Icon=kdenlive
+Name=Kdenlive
+StartupNotify=true
+Terminal=false
+Type=Application

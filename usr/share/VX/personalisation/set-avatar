@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+_user="$(who|awk 'NR==1 {print $1}')"
+
+cd /home/$_user
+avatarfile=$(yad --file --title="Select image for avatar" --width=780 --height=440)
+
+if [[ $avatarfile == "" ]]; then
+	exit
+else
+	sudo cp $avatarfile /usr/share/sddm/faces/"$_user".face.icon
+	kdialog --msgbox "User icon changed\nSaved to /usr/share/sddm/faces" --title "User Avatar"
+fi
+
+exit

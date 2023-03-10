@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub ca.littlesvr.asunder --assumeyes'
+Icon=asunder
+Name=Asunder
+StartupNotify=true
+Terminal=false
+Type=Application

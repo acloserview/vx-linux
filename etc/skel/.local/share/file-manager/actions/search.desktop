@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=Search Files
+Icon=search
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=inode/directory;
+Exec=kfind %f
+Name=Default profile

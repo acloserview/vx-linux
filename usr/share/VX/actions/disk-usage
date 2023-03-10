@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo ""
+gdu $1
+read
+exit

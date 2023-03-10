@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+_user="$(who|awk 'NR==1 {print $1}')"
+installdrv=$(df -hT | grep /$ | cut -d " " -f 1)
+timestamp=$(date +"%Y-%m-%d-%H%M")
+
+read -p "Run full system backup? [Y/n] " startbackup
+echo ""
+
+if [[ "$startbackup" == "n" ]]; then
+	exit
+else
+cd /
+findmnt $installdrv -o UUID -n > olduuid
+tar -cpvzf snapshot-$timestamp.tar.gz --exclude=snapshot-$timestamp.tar.gz --exclude=root/.cache --exclude=run/media --exclude=var/cache/xbps --one-file-system /
+
+echo ""
+echo "Syncing.."
+sync; sync
+echo "Syncing complete"
+sleep 1
+
+echo ""
+echo "Backup complete"
+echo "Exiting"
+sleep 5
+exit
+fi

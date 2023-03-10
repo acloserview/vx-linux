@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Menu
+Name=Actions
+Icon=document-properties-symbolic
+Profiles=profile-zero;
+ItemsList=convert2image;convert2jpg;convert2webp;convert360p;convert480p;convert720p;disk-usage;install-rpm;install-deb;iso2usb;merge;mergesort;mount-iso;normalize;rename;restore-snapshot;scanwithclamav;screenshot;search;set-as-wallpaper;set-web-permissions;take-ownership;
+
+[X-Action-Profile profile-zero]
+MimeTypes=inode/directory;
+

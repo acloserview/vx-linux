@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.inkscape.Inkscape --assumeyes'
+Icon=inkscape
+Name=Inkscape
+StartupNotify=true
+Terminal=false
+Type=Application

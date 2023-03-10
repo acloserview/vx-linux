@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=Install RPM
+Icon=application-x-rpm
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=application/x-rpm;
+Exec=qterminal -e 'sudo /usr/share/VX/actions/install-rpm %f'
+Name=Default profile

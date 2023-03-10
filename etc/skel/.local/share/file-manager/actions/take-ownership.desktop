@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=Take Ownership
+Icon=im-user
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=inode/directory;
+Exec=bash -c "sudo chown $USER:$USER -R %F"
+Name=Default profile

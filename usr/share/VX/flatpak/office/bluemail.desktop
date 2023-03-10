@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub net.blix.BlueMail --assumeyes'
+Icon=/usr/share/icons/bluemail.png
+Name=BlueMail
+StartupNotify=true
+Terminal=false
+Type=Application

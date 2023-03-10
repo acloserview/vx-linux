@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub com.microsoft.Edge --assumeyes'
+Icon=microsoft-edge
+Name=Edge
+StartupNotify=true
+Terminal=false
+Type=Application

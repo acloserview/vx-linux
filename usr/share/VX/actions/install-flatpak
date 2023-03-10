@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+flatpak install --user --from $1
+echo ""
+
+echo "Installation complete"
+echo ""
+sleep 3
+exit

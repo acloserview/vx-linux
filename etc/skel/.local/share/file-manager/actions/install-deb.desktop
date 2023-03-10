@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=Install DEB
+Icon=application-x-deb
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=application/vnd.debian.binary-package;
+Exec=qterminal -e 'sudo /usr/share/VX/actions/install-deb %f'
+Name=Default profile

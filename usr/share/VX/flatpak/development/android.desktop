@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub com.google.AndroidStudio --assumeyes'
+Icon=/usr/share/icons/android.png
+Name=Android Studio
+StartupNotify=true
+Terminal=false
+Type=Application

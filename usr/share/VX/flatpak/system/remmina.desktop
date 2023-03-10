@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.remmina.Remmina --assumeyes'
+Icon=remmina
+Name=Remmina
+StartupNotify=true
+Terminal=false
+Type=Application

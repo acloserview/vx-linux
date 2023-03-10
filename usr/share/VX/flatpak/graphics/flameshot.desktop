@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.flameshot.Flameshot --assumeyes'
+Icon=flameshot
+Name=Flameshot
+StartupNotify=true
+Terminal=false
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub com.github.d4nj1.tlpui --assumeyes'
+Icon=/usr/share/icons/tlpui.png
+Name=TLPUI
+StartupNotify=true
+Terminal=false
+Type=Application
