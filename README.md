@@ -22,7 +22,7 @@
 <br>
 **Login**<br>
 - anon / live
-<br>
+<br><br>
 **Installation**<br>
 - Open a terminal and run <code>vxinstaller</code>
 
