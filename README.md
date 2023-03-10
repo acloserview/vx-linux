@@ -6,8 +6,9 @@
 - Plasma (in progress)
 - Openbox (Planned)
 
-Features
-- Graphics Driver Installer <img src="https://github.com/dessington/vx-linux/blob/main/graphics-drivers.png" style="width:50px;">
+**Features**
+- Graphics Driver Installer
+- <img src="https://github.com/dessington/vx-linux/blob/main/graphics-drivers.png" style="width:100px;">
 
 **Login**
 - anon / live
