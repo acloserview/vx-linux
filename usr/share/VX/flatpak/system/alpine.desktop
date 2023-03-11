@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub io.github.paledega.alpine-rootfs --assumeyes'
-Icon=/usr/share/icons/alpine.png
-Name=Alpine Linux
-StartupNotify=true
-Terminal=false
-Type=Application

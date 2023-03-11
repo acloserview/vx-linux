@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.github.bvschaik.julius --assumeyes'
-Icon=/usr/share/icons/julius.png
-Name=Julius
-StartupNotify=true
-Terminal=false
-Type=Application

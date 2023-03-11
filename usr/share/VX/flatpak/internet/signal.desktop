@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub org.signal.Signal --assumeyes'
-Icon=signal
-Name=Signal
-StartupNotify=true
-Terminal=false
-Type=Application

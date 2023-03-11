@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.github.dahenson.agenda --assumeyes'
-Icon=/usr/share/icons/agenda.png
-Name=Agenda
-StartupNotify=true
-Terminal=false
-Type=Application

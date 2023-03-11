@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub io.gitlab.o20.word --assumeyes'
-Icon=document
-Name=O20 Word
-StartupNotify=true
-Terminal=false
-Type=Application

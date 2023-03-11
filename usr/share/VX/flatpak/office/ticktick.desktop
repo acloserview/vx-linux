@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.ticktick.TickTick --assumeyes'
-Icon=/usr/share/icons/ticktick.png
-Name=TickTick
-StartupNotify=true
-Terminal=false
-Type=Application

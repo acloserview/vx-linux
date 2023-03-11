@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.spotify.Client --assumeyes'
-Icon=spotify
-Name=Spotify
-StartupNotify=true
-Terminal=false
-Type=Application

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub fr.handbrake.ghb --assumeyes'
-Icon=handbrake
-Name=HandBrake
-StartupNotify=true
-Terminal=false
-Type=Application

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub app.authpass.AuthPass --assumeyes'
-Icon=/usr/share/icons/authpass.png
-Name=AuthPass
-StartupNotify=true
-Terminal=false
-Type=Application

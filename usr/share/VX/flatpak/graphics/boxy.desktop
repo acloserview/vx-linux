@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.boxy_svg.BoxySVG --assumeyes'
-Icon=/usr/share/icons/boxy.png
-Name=Boxy SVG
-StartupNotify=true
-Terminal=false
-Type=Application

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.system76.Popsicle --assumeyes'
-Icon=popsicle
-Name=Popsicle
-StartupNotify=true
-Terminal=false
-Type=Application

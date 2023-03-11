@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub org.gnome.Builder --assumeyes'
-Icon=builder
-Name=Builder
-StartupNotify=true
-Terminal=false
-Type=Application

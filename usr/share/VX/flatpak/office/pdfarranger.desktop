@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.github.jeromerobert.pdfarranger --assumeyes'
-Icon=pdfarranger
-Name=PDF Arranger
-StartupNotify=true
-Terminal=false
-Type=Application

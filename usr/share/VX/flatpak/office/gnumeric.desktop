@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub org.gnumeric.Gnumeric --assumeyes'
-Icon=/usr/share/icons/gnumeric.png
-Name=Gnumeric
-StartupNotify=true
-Terminal=false
-Type=Application
