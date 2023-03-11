@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.obsproject.Studio --assumeyes'
-Icon=obs-studio
-Name=OBS Studio
-StartupNotify=true
-Terminal=false
-Type=Application

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.ulduzsoft.Birdtray --assumeyes'
-Icon=/usr/share/icons/birdtray.png
-Name=Birdtray
-StartupNotify=true
-Terminal=false
-Type=Application

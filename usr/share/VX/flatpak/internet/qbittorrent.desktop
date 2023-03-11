@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub org.qbittorrent.qBittorrent --assumeyes'
-Icon=qbittorrent
-Name=Qbittorrent
-StartupNotify=true
-Terminal=false
-Type=Application

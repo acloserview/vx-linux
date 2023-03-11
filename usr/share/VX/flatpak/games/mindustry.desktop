@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.github.Anuken.Mindustry --assumeyes'
-Icon=/usr/share/icons/mindustry.png
-Name=Mindustry
-StartupNotify=true
-Terminal=false
-Type=Application

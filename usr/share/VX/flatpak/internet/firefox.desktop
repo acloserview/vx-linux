@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub org.mozilla.firefox --assumeyes'
-Icon=firefox
-Name=Firefox
-StartupNotify=true
-Terminal=false
-Type=Application

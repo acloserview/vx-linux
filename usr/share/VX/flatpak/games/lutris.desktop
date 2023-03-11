@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub net.lutris.Lutris --assumeyes'
-Icon=lutris
-Name=Lutris
-StartupNotify=true
-Terminal=false
-Type=Application

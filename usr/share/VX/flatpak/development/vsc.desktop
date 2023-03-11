@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.visualstudio.code --assumeyes'
-Icon=code
-Name=Code
-StartupNotify=true
-Terminal=false
-Type=Application

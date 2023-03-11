@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Redshift
-GenericName=
-Comment=
-Exec=featherpad /etc/redshift.conf
-Type=Application
-Icon=redshift
-Terminal=false
-Categories=Settings;

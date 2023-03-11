@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub org.kde.krita --assumeyes'
-Icon=krita
-Name=Krita
-StartupNotify=true
-Terminal=false
-Type=Application

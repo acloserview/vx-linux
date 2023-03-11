@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.basemark.BasemarkGPU --assumeyes'
-Icon=/usr/share/icons/basemark.png
-Name=BasemarkGPU
-StartupNotify=true
-Terminal=false
-Type=Application

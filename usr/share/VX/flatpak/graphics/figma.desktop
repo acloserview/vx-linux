@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub io.github.Figma_Linux.figma_linux --assumeyes'
-Icon=figma
-Name=Figma
-StartupNotify=true
-Terminal=false
-Type=Application

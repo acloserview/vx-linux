@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.nextcloud.desktopclient.nextcloud --assumeyes'
-Icon=/usr/share/icons/nextcloud.png
-Name=NextCloud
-StartupNotify=true
-Terminal=false
-Type=Application

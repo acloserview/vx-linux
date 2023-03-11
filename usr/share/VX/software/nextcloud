@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-
-xbps-install -Syu nextcloud-client
-
-echo ""
-echo "Installation complete"
-sleep 5
-exit

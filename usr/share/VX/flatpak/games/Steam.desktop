@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.valvesoftware.Steam --assumeyes'
-Icon=steam
-Name=Steam
-StartupNotify=true
-Terminal=false
-Type=Application

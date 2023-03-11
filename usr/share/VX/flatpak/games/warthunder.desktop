@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub net.gaijin.WarThunder --assumeyes'
-Icon=/usr/share/icons/warthunder.png
-Name=WarThunder
-StartupNotify=true
-Terminal=false
-Type=Application

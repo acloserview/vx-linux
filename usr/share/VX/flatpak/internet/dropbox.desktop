@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=qterminal -e 'sudo flatpak install flathub com.dropbox.Client --assumeyes'
-Icon=dropbox
-Name=Dropbox
-StartupNotify=true
-Terminal=false
-Type=Application
