@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+vivaldiinstall=$(mktemp -d)
+cd $vivaldiinstall
+
+wget https://downloads.vivaldi.com/stable/vivaldi-stable-5.7.2921.60-1.x86_64.rpm
+rpm2cpio vivaldi-stable-5.7.2921.60-1.x86_64.rpm | cpio -idmv
+cp -r opt usr /
+
+echo ""
+echo "Installation complete"
+sleep 5
+exit

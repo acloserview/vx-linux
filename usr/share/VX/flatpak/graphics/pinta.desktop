@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub com.github.PintaProject.Pinta --assumeyes'
+Icon=/usr/share/icons/pinta.png
+Name=Pinta
+StartupNotify=true
+Terminal=false
+Type=Application

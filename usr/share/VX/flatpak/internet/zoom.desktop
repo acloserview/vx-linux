@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub us.zoom.Zoom --assumeyes'
+Icon=/usr/share/icons/zoom.png
+Name=Zoom
+StartupNotify=true
+Terminal=false
+Type=Application

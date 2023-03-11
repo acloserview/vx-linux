@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub com.getmailspring.Mailspring --assumeyes'
+Icon=mailspring
+Name=Mailspring
+StartupNotify=true
+Terminal=false
+Type=Application

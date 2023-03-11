@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.pitivi.Pitivi --assumeyes'
+Icon=pitivi
+Name=Pitivi
+StartupNotify=true
+Terminal=false
+Type=Application

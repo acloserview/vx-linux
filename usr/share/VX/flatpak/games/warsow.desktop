@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub net.warsow.Warsow --assumeyes'
+Icon=/usr/share/icons/warsow.png
+Name=Warsow
+StartupNotify=true
+Terminal=false
+Type=Application

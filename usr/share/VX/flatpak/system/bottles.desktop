@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub com.usebottles.bottles --assumeyes'
+Icon=/usr/share/icons/bottles.png
+Name=Bottles
+StartupNotify=true
+Terminal=false
+Type=Application

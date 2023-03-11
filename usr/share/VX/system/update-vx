@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+_user="$(who|awk 'NR==1 {print $1}')"
+
+echo "Updating VX files.."
+cd /usr/share/VX/github/vx-linux
+git config advice.setUpstreamFailure false
+git fetch
+git checkout -f
+
+echo ""
+echo "Installing updated files.."
+cp -r etc/* /etc
+cp -r usr/* /usr
+chown $_user:$_user -R etc/skel
+cp -r etc/skel/* /home/$_user
+sleep 3
+
+echo ""
+echo "VX update complete"
+sleep 5
+exit

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=Disk Usage
+Icon=view-sort-descending
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=inode/directory;
+Exec=qterminal -e '/usr/share/VX/actions/disk-usage %f'
+Name=Default profile

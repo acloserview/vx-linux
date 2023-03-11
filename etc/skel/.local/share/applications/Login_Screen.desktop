@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Login Screen
+GenericName=
+Comment=
+Exec=kcmshell5 sddm
+Type=Application
+Icon=login
+Terminal=false
+Categories=Settings;

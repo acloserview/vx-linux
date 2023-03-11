@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub io.github.mimbrero.WhatsAppDesktop --assumeyes'
+Icon=whatsapp
+Name=Whatsapp
+StartupNotify=true
+Terminal=false
+Type=Application

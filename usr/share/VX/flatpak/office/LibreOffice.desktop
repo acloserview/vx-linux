@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.libreoffice.LibreOffice --assumeyes'
+Icon=libreoffice
+Name=LibreOffice
+StartupNotify=true
+Terminal=false
+Type=Application

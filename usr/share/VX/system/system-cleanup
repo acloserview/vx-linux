@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+
+_user="$(who|awk 'NR==1 {print $1}')"
+
+echo "System Cleanup"
+echo "----------------------"
+echo "Remove unused packages"
+echo "Purge unused kernels"
+echo "Clear XBPS cache"
+echo "Empty trash"
+echo ""
+read -p "Run full system clean? [Y/n] " startcleanup
+echo ""
+
+if [[ "$startcleanup" == "n" ]]; then
+	exit
+else
+	precleanmb=$(df / | awk 'NR==2 {print $3}' | sed 's/.$//')
+	precleanperc=$(df / | awk 'NR==2 {print $5}' | sed 's/.$//')
+	echo "Emptying trash"
+	trash-empty -f; sleep 1
+
+	echo "Removing unused packages"
+	xbps-remove -ROoy; sleep 1
+
+	echo "Clearing XBPS cache"
+	rm -f /var/cache/xbps/*; sleep 1
+
+	echo "Purging unused kernels"
+	vkpurge rm all; sleep 1
+
+	echo ""
+	postcleanmb=$(df / | awk 'NR==2 {print $3}' | sed 's/.$//')
+	postcleanperc=$(df / | awk 'NR==2 {print $5}' | sed 's/.$//')
+	cleansavings=$(($precleanperc - $postcleanperc))
+	cleansavingsmb=$(($precleanmb - $postcleanmb))
+	echo "Space recovered: " $cleansavings"%" "($cleansavingsmb"MiB")"
+	echo ""; echo "Cleanup complete"
+	echo ""
+	sleep 5
+	exit
+fi
+
+exit

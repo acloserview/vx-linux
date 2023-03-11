@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Terminal
+GenericName=Terminal emulator
+Comment=Terminal emulator
+Icon=utilities-terminal
+Exec=qterminal
+Actions=Dropdown;
+Categories=Qt;System;TerminalEmulator;lxde-system-tools;
+
+[Desktop Action Dropdown]
+Name=Drop-down terminal
+Exec=qterminal --drop

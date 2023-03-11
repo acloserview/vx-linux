@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.geany.Geany --assumeyes'
+Icon=geany
+Name=Geany
+StartupNotify=true
+Terminal=false
+Type=Application

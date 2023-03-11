@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=qterminal -e 'sudo flatpak install flathub org.onlyoffice.desktopeditors --assumeyes'
+Icon=onlyoffice
+Name=OnlyOffice
+StartupNotify=true
+Terminal=false
+Type=Application

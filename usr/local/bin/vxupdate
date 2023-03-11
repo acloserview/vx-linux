@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+upsup=$(xbps-install -Sun | wc -l)
+
+if [[ $upsup -ge 1 ]]; then
+        echo "/usr/share/icons/Tela-circle-black/symbolic/status/software-update-urgent-symbolic.svg"
+fi
+
+exit

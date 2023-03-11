@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+vscodeinstall=$(mktemp -d)
+cd $vscodeinstall
+
+wget https://az764295.vo.msecnd.net/stable/5e805b79fcb6ba4c2d23712967df89a089da575b/code-1.76.1-1678294353.el7.x86_64.rpm
+rpm2cpio code-1.76.1-1678294353.el7.x86_64.rpm | cpio -idmv
+cp -r usr /
+
+echo ""
+echo "Installation complete"
+sleep 5
+exit

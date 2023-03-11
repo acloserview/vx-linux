@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+clear
+echo "Connected USB drives"
+echo "--------------------"
+lsblk -dno MODEL,SIZE,TRAN,NAME,MOUNTPOINT | grep usb
+echo ""
+read -p "Target drive (sdx): " targetdrive
+echo ""
+
+echo "Writing image to disk.."
+isohybrid $1 >/dev/null 2>&1
+dd if=$1 of=/dev/$targetdrive status=progress
+echo ""
+
+echo "Syncing.."
+sync; sync
+echo "Syncing complete"; sleep 1
+echo "Transfer complete"
+echo ""
+sleep 3
+exit
