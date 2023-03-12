@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/dessington/vx-linux/main/vx-desktop-6.1.png" style="width:960px;">
 
 **Editions**
+- Core (Planned)
 - LXQt (complete)
 - Plasma (in progress)
 - Openbox (Planned)
