@@ -5,6 +5,7 @@
 - Core (Planned)
 - LXQt (complete)
 - Plasma (in progress)
+- PRO (planned)
 - Openbox (Planned)
 
 **Features**
