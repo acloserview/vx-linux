@@ -2,11 +2,9 @@
 <img src="https://raw.githubusercontent.com/dessington/vx-linux/main/vx-7.0-plasma-desktop.png" style="width:960px;">
 
 **Editions**
-- Core (Planned)
 - LXQt (complete)
-- Plasma (in progress)
+- Plasma (complete)
 - PRO (planned)
-- Openbox (Planned)
 
 **Features**
 - Graphics Driver Installer
