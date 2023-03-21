@@ -1,5 +1,5 @@
 # VX Linux
-<img src="https://raw.githubusercontent.com/dessington/vx-linux/main/vx-7.0-plasma-desktop.png" style="width:960px;">
+<img src="https://raw.githubusercontent.com/dessington/vx-linux/main/vx-7.0-plasma-desktop.png" style="width:960px;border-radius:10px;">
 
 **Editions**
 - LXQt (complete)
