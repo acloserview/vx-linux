@@ -13,6 +13,8 @@
 <img src="https://github.com/dessington/vx-linux/blob/main/mirror-selector.png" style="width:200px;">
 - Optional Extras
 <img src="https://github.com/dessington/vx-linux/blob/main/optional-modules.png" style="width:100px;">
+- Services quickview
+<img src="https://github.com/dessington/vx-linux/blob/main/optional-modules.png" style="width:100px;">
 - Light, highly-optimised base<br>
 - Quick booting<br>
 - Integrated antivirus<br>
