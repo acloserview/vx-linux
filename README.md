@@ -27,5 +27,3 @@
 <br><br>
 <b>Installation</b><br>
 - Open a terminal and run <code>vxinstaller</code>
-
-
