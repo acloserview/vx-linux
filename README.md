@@ -19,6 +19,7 @@
 - Quick booting<br>
 - Integrated antivirus<br>
 - Integrated firewall<br>
+- Integrated update notifications<br>
 - Clean, uncluttered styling<br>
 - No bling bling<br>
 <br>
