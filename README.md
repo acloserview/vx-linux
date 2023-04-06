@@ -3,7 +3,7 @@
 
 **Editions**
 - Core - just the base with optimisations and tweaks, no desktop, no software - in progress
-- Legacy - more traditional desktop with lighter panel and menu, only basic software (editor,file manager, partitioner, terminal) - complete
+- Legacy - more traditional desktop with lighter panel and menu, only basic software (image viewer, media player, editor, file manager, partitioner, terminal) - complete
 - Pro - more modern desktop with dock or panel, browser (chrome) and office (onlyoffice) - in progress (plasma merged with pro)
 
 **Features**
