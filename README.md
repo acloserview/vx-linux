@@ -1,5 +1,5 @@
 # VX Linux
-<img src="https://raw.githubusercontent.com/dessington/vx-linux/main/vx-7.0-plasma-desktop.png" style="width:960px;border-radius:10px!important;">
+<img src="https://github.com/dessington/vx-linux/blob/main/desktop-pro.jpg" style="width:960px;border-radius:10px!important;">
 
 **Editions**
 - Core - just the base with optimisations and tweaks, no desktop, no software - in progress
