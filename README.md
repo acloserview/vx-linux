@@ -3,7 +3,7 @@
 
 **Editions**
 - Core - just the base with optimisations and tweaks, no desktop, no software
-- Lite - lxqt desktop with lighter panel and menu, only basic software (image viewer, media player, editor, file manager, partitioner, terminal)
+- Lite - lxqt desktop with lighter panel and menu, only basic software (image viewer, media player, editor, file manager, partitioner, terminal) - based on the original DXT2
 - Pro - plasma desktop with custom menu and basic software including browser (chrome) and office (onlyoffice)
 
 **Features**
