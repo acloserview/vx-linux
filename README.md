@@ -1,13 +1,10 @@
 # VX Linux
 <img src="https://github.com/dessington/vx-linux/blob/main/desktop-pro.jpg" style="width:960px;border-radius:10px!important;">
 
-**Editions**
-- Core - just the base with optimisations and tweaks, no desktop, no software
-- Lite - lxqt desktop with lighter panel and menu, only basic software (image viewer, media player, editor, file manager, partitioner, terminal) - based on the original DXT2
-- Pro - plasma desktop with custom menu and basic software including browser (chrome) and office (onlyoffice)
-
 **Downloads**<br>
-https://drive.google.com/drive/folders/11EHOZowUqL3NcMr9MMBqKoZVETHAPK_M?usp=sharing
+<a href="https://drive.google.com/drive/folders/1TFcRIUyVDOXlfoG1QvpgmWhRDKqHuF-j?usp=sharing">7.1</a>
+<a href="https://drive.google.com/drive/folders/11EHOZowUqL3NcMr9MMBqKoZVETHAPK_M?usp=sharing">7.2</a>
+<br>
 
 **Features**
 - Light, highly-optimised base<br>
