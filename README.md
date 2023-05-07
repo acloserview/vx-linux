@@ -13,7 +13,7 @@
 - Integrated antivirus<br>
 - Integrated firewall<br>
 - Integrated update notifications<br>
-- Multiple Layouts
+- Multiple layouts to suit your workflow
 - Clean, uncluttered styling<br>
 - No bling bling<br>
 <br>
